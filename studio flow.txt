@@ -1,0 +1,529 @@
+# 🎬 StudioFlow Real Canvas Engine
+
+> Professional Browser-Based Video, Audio, Image and GIF Editing Platform
+
+![Version](https://img.shields.io/badge/version-4.0-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Canvas-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+# 📖 Overview
+
+StudioFlow Real Canvas Engine is a browser-based multimedia editing platform that renders all media directly onto an HTML5 Canvas.
+
+Unlike a standard HTML video player, StudioFlow treats every imported media asset as an editable object on a timeline, enabling real-time composition, effects, positioning, resizing, and exporting.
+
+No desktop installation is required.
+
+Runs directly in modern web browsers.
+
+---
+
+# ✨ Main Features
+
+## 🎥 Video
+
+Supported formats
+
+- MP4
+- WebM
+- MOV
+- AVI
+- MKV
+- FLV
+- WMV
+- M4V
+- OGV
+
+Features
+
+- Full Length Playback
+- Frame Accurate Playback
+- Pause
+- Resume
+- Stop
+- Fast Forward
+- Rewind
+- Playback Speed
+- Loop
+- Canvas Rendering
+
+---
+
+## 🎵 Audio
+
+Supported
+
+- WAV
+- MP3
+- AAC
+- OGG
+- FLAC
+- M4A
+
+Features
+
+- Full Length Playback
+- Background Music
+- Independent Audio Track
+- Volume
+- Mute
+- Fade In
+- Fade Out
+- Audio Mixer
+- Audio Separation
+- Audio Synchronization
+- Audio Waveform
+
+---
+
+## 🖼 Images
+
+Supported
+
+- PNG
+- JPG
+- JPEG
+- GIF
+- SVG
+- BMP
+- WebP
+
+Features
+
+- Resize
+- Rotate
+- Opacity
+- Position
+- Layer Order
+- Animation
+
+---
+
+## 🎞 GIF
+
+Supports
+
+- Animated GIF
+- Canvas Playback
+- Scaling
+- Timeline Editing
+
+---
+
+# 🎬 Real Canvas Engine
+
+Everything is rendered inside Canvas.
+
+Supports
+
+✔ Video
+
+✔ Audio Visualization
+
+✔ Images
+
+✔ GIF
+
+✔ Text
+
+✔ Effects
+
+✔ Overlay
+
+✔ Multiple Layers
+
+---
+
+# 📂 Media Browser
+
+Import directly from your computer.
+
+Supports
+
+- Drag & Drop
+- Folder Import
+- Local Files
+- Preview
+- Metadata
+- Duration
+- Resolution
+- File Size
+
+---
+
+# 🎞 Timeline
+
+Unlimited Tracks
+
+Video
+
+Audio
+
+Subtitle
+
+Effects
+
+Overlay
+
+Functions
+
+- Split
+- Trim
+- Copy
+- Paste
+- Duplicate
+- Delete
+- Ripple Delete
+- Snap
+- Zoom
+- Multi Select
+
+---
+
+# 🖱 Canvas Editing
+
+Objects can be
+
+Move
+
+Resize
+
+Rotate
+
+Crop
+
+Scale
+
+Align
+
+Center
+
+Bring Forward
+
+Send Backward
+
+Lock
+
+Unlock
+
+Hide
+
+Delete
+
+---
+
+# 🎨 Video Effects
+
+Built-in
+
+- Fade
+- Blur
+- Brightness
+- Contrast
+- Saturation
+- Chroma Key
+- Green Screen
+- Color Filter
+- Black & White
+- Vintage
+
+Effects can be
+
+✔ Added
+
+✔ Edited
+
+✔ Removed
+
+at any time.
+
+---
+
+# ✍ Text Editor
+
+Supports
+
+- Static
+- Fade
+- Bounce
+- Scroll
+- Typewriter
+- Subtitle
+
+Editable
+
+Font
+
+Size
+
+Color
+
+Stroke
+
+Shadow
+
+Opacity
+
+Animation
+
+Position
+
+Duration
+
+Delete
+
+---
+
+# 🎵 Audio Separation
+
+Supports
+
+Separate Video
+
+↓
+
+Video Track
+
+Audio Track
+
+Independent Editing
+
+Independent Playback
+
+Independent Export
+
+---
+
+# 🗑 Delete System
+
+StudioFlow supports
+
+Delete Media
+
+Delete Clip
+
+Delete Text
+
+Delete Effects
+
+Delete Audio
+
+Delete Layer
+
+Delete Track
+
+Remove All Effects
+
+Original files stored on your computer are never modified.
+
+---
+
+# 🌐 Languages
+
+- 繁體中文
+- English
+- 日本語
+
+Runtime switching supported.
+
+---
+
+# 🌙 Appearance
+
+- Dark Mode
+- Light Mode
+
+---
+
+# 📤 Export
+
+Current
+
+✅ WebM
+
+✅ WAV
+
+✅ PNG
+
+Planned
+
+⬜ MP4
+
+⬜ MOV
+
+⬜ AVI
+
+⬜ MKV
+
+⬜ GIF
+
+⬜ Image Sequence
+
+---
+
+# 💾 Project Files
+
+Native Project
+
+```
+Project.studioflow
+```
+
+Stores
+
+Timeline
+
+Tracks
+
+Effects
+
+Text
+
+Audio
+
+Video
+
+Project Settings
+
+Supports
+
+Open
+
+Save
+
+Auto Save
+
+Recovery
+
+---
+
+# ⚡ GPU Rendering
+
+Rendering Engine
+
+- HTML5 Canvas
+- WebGL
+- WebGPU (Experimental)
+
+---
+
+# 🤖 AI Features
+
+- AI Subtitle
+- AI Speech Recognition
+- AI Translation
+- AI Voice Separation
+- AI Background Removal
+- AI Object Tracking
+
+---
+
+# 🖥 Desktop Edition
+
+Electron
+
+Supports
+
+Windows
+
+macOS
+
+Linux
+
+---
+
+# 📂 Project Structure
+
+```
+StudioFlow/
+
+│
+├── index.html
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── SECURITY.md
+├── CONTRIBUTING.md
+│
+├── css/
+├── js/
+├── assets/
+│
+├── docs/
+│
+├── examples/
+│
+└── electron/
+```
+
+---
+
+# 🚀 Planned Features (v5.0)
+
+- FFmpeg.wasm Export
+- MP4 Encoder
+- MOV Encoder
+- GIF Encoder
+- GPU Timeline Rendering
+- Motion Graphics
+- Particle System
+- 3D Layer Support
+- LUT Color Grading
+- HDR Video
+- Auto Backup
+- Cloud Project Sync
+- Plugin SDK
+- Extension Marketplace
+- Multi-user Collaboration
+- Remote Rendering
+
+---
+
+# ⌨ Keyboard Shortcuts
+
+| Key | Function |
+|------|----------|
+| Space | Play / Pause |
+| Delete | Delete Selected |
+| Ctrl + Z | Undo |
+| Ctrl + Y | Redo |
+| Ctrl + S | Save Project |
+| Ctrl + O | Open Project |
+| Ctrl + Mouse Wheel | Timeline Zoom |
+| Shift + Drag | Multi Select |
+
+---
+
+# 🌍 Browser Support
+
+| Browser | Support |
+|----------|----------|
+| Chrome | ✅ |
+| Edge | ✅ |
+| Firefox | ✅ |
+| Safari | ⚠ Limited Codec Support |
+
+---
+
+# 📜 License
+
+MIT License
+
+This project is provided for educational, research, multimedia production and personal use.
+
+Please ensure that imported media complies with all applicable copyright and licensing requirements.
+
+---
+
+# 👨‍💻 Author
+
+StudioFlow Development Team
+
+Real Canvas Multimedia Editing Platform
+
+Version 4.0
+
+Released July 2026
