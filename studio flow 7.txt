@@ -1,0 +1,7 @@
+StudioFlow Pro v7
+
+Draggable Timeline
+Text Sync
+16:9 Preview
+Browser Video Editor
+AV Sync
